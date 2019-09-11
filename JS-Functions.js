@@ -10,16 +10,6 @@ function reverse(){
 
 
 
-// * Or you can do it this way *
-// The split() method splits a String object into an array of string by separating the string into sub strings.
-// The reverse() method reverses an array in place. The first array element becomes the last and the last becomes the first.
-// The join() method joins all elements of an array into a string.
-function reverse () {
-  //...code here
-}
-
-
-
 // FOR LOOP INCREMENTING
 /*•	Create a function called myLoop that takes in two parameters.
 •	The first parameter should represent a starting number and the second is how many times the starting number should be incremented.

@@ -1,10 +1,11 @@
 //TERNARY
 
 //Convert the following If statement into a Ternary:
+let num = 3;
 if (num > 5) {
- return "greater"
+ console.log("greater")
 } else {
-  return "lesser"
+  console.log("lesser")
 }
 
 
